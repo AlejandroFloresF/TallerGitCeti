@@ -6,10 +6,7 @@ Juan Carlos :)
 =======
 Marco Antonio Galindo Torres
 Alejandro Luna
-Alejandro Luna
-Juan Carlos
-Marco Antonio Galindo Torres
-Alejandro Luna
-Marco Ruiz
+René Félix
+
 
 >>>>>>> 62643d141188770cbd9d496df9fb01e1aa10f5ff
