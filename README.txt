@@ -2,7 +2,8 @@ Alejandro Flores
 Fulanito
 Alejandro Luna
 Marco Antonio Galindo Torres
-Alejandro Luna
 René Félix
+Juan Carlos Fernandez Venezuela
+Marco Antonio Ruiz Rivas
 
 
