@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 #Hola
 print("Hola mundo")
 print("Se agregan mas líneas")
+=======
+Hola
+>>>>>>> parent of 3c2664c (Se escribe hola mundo en python)
