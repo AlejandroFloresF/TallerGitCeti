@@ -7,3 +7,4 @@ Marco Antonio Ruiz Rivas
 Edson Roberto Alvarez Gonzalez
 Ruben Esau Vicencio Baltazar
 Juan Carlos Fernandez Venezuela "El jackiativo"
+Kuchao estuvo aquí
